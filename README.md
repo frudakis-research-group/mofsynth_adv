@@ -113,6 +113,20 @@ Please consider citing [this publication](https://pubs.acs.org/doi/full/10.1021/
 <summary>Show BibTex entry</summary>
 
 ```bibtex
+@article{doi:10.1021/acs.jcim.6c00880,
+  author = {Livas, Charalampos G. and Klontzas, Emmanouel and Trikalitis, Pantelis N. and Froudakis, George E.},
+  title = {MOFSynth-ADV: An Open-Source Engine for Synthesizability Evaluation of Metal–Organic Frameworks},
+  journal = {Journal of Chemical Information and Modeling},
+  volume = {},
+  number = {},
+  pages = {},
+  year = {2026},
+  doi = {10.1021/acs.jcim.6c00880},
+  note ={},
+  URL = {https://doi.org/10.1021/acs.jcim.6c00880},
+  eprint = {https://doi.org/10.1021/acs.jcim.6c00880}
+  }
+
 @article{doi:10.1021/acs.jcim.4c01298,
   author = {Livas, Charalampos G. and Trikalitis, Pantelis N. and Froudakis, George E.},
   title = {MOFSynth: A Computational Tool toward Synthetic Likelihood Predictions of MOFs},
