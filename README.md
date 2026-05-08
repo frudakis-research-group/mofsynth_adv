@@ -107,7 +107,7 @@ You can start by [opening an issue](https://github.com/livaschar/mofsynth_adv/is
 
 ## 📰 Citing MOFSynth
 
-Please consider citing [this publication](https://pubs.acs.org/doi/full/10.1021/acs.jcim.4c01298) or use the following BibTex.
+Please consider citing both publications:[1st](https://pubs.acs.org/doi/full/10.1021/acs.jcim.4c01298) [2nd](https://pubs.acs.org/doi/full/10.1021/acs.jcim.6c00880) or use the following BibTex.
 
 <details>
 <summary>Show BibTex entry</summary>
